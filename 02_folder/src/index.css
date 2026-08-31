@@ -1,0 +1,17 @@
+body{
+  background-color: #010101;
+  color: white;
+
+}
+.card1{
+  color: red;
+  background-color: rebeccapurple;
+  /* width: 500px;
+  align-items: center; */
+}
+.lovely{
+  background-color: rgb(20, 190, 31);
+}
+.tovely{
+  background-color: rgb(212, 95, 149)
+}
