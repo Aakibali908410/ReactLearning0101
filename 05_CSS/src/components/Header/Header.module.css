@@ -1,0 +1,14 @@
+.Head{
+  background-color: rgb(67, 156, 156);
+  width: 500px;
+  height: 300px;
+}
+.logo{
+  color: red;
+  background-color: bisque;
+}
+.line{
+  text-decoration: underline;
+  color: rgb(9, 198, 47);
+  background-color: rgb(158, 158, 160);
+}
