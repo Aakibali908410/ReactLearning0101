@@ -11,6 +11,8 @@ const Nav = () => {
         <Link className='font-bold text-lg hover:scale-95 hover:text-blue-600' to='/'>Home</Link>
         <Link className='font-bold text-lg hover:scale-95 hover:text-blue-600' to='/about'>About</Link>
         <Link className='font-bold text-lg hover:scale-95 hover:text-blue-600' to='/product'>Product</Link>
+        <Link className='font-bold text-lg hover:scale-95 hover:text-blue-600' to='/courses'>Courses</Link>
+       
       </div>
     </div>
   )
